@@ -41,6 +41,9 @@
 
 ---
 
+## 📸 控制台截图
+![](https://raw.githubusercontent.com/iougemini/CF-HF-Waker/refs/heads/main/Screenshot.png)
+---
 ## 🚀 3 分钟网页端快速部署指南
 
 无需本地配置命令行环境，直接在 Cloudflare 网页后台复制粘贴即可完成部署：
